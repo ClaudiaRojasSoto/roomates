@@ -1,0 +1,18 @@
+{
+ "roommates": [
+  {
+   "id": "ff9a99",
+   "nombre": "Anthony Lévesque",
+   "debe": 7500,
+   "recibe": 22500,
+   "correo": "claudiarojassoto@gmail.com"
+  },
+  {
+   "id": "ac990b",
+   "nombre": "Consuelo Ruiz",
+   "debe": 7500,
+   "recibe": 7500,
+   "correo": "consuelo.ruiz@example.com"
+  }
+ ]
+}

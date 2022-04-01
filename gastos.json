@@ -1,0 +1,22 @@
+{
+ "gastos": [
+  {
+   "id": "c75722",
+   "roommate": "Anthony Lévesque",
+   "descripcion": "Articulos de limpieza",
+   "monto": 15000
+  },
+  {
+   "id": "c32444",
+   "roommate": "Consuelo Ruiz",
+   "descripcion": "Articulos de limpieza",
+   "monto": 15000
+  },
+  {
+   "id": "99f532",
+   "roommate": "Anthony Lévesque",
+   "descripcion": "Articulos de limpieza",
+   "monto": 15000
+  }
+ ]
+}
